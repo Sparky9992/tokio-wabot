@@ -49,7 +49,6 @@ global.author = sticker_author
 
 global.multiplier = 69 // The higher, The harder levelup
 
-process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
   fs.unwatchFile(file)
