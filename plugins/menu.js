@@ -44,7 +44,7 @@ const defaultMenu = {
 〽️ Prefix: *%p*
 📅 Date: *%week, %date*
 💠 Github: github.com/Sparky9992/tokio-wabot
-💫INSTA: https://instagram.com/oyepiyush09
+💫 INSTA: https://instagram.com/oyepiyush09
 
 👇🏻 All usable commands are listed below 
 
